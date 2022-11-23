@@ -21,3 +21,4 @@ https://beta.openai.com/docs/introduction
 
 code-davinci-edit-001 model for editing existing code
 
+https://beta.openai.com/examples
